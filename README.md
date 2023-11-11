@@ -1,6 +1,6 @@
 # GEMS for latent variable selection in MIRT models
 
-## Introduction:
+## Introduction
 The generalized expectation model selection (GEMS) algorithm is proposed for dealing with the model selection problem in presence of missing data.
 For the latent variable selection in multidimension two-parameter logistic model (M2PLM),
 we present an efficient implementation of GEMS to find
@@ -21,7 +21,7 @@ To run the examples.R, the R-packages 'magrittr' and 'MASS' are required.
 
 All codes are written in R 4.2.3 with the corresponding Rtools version 4.2.
 
-## Citation:
+## Citation
 To cite these codes in publications, please use the following reference:\
 Shang, L., Zheng, Q. Z., Xu, P. F., Shan, N., & Tang, M. L. (2023).
 A generalized expectation model selection algorithm for latent
